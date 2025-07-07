@@ -9,6 +9,7 @@ This project involves analyzing pizza sales data using SQL and Python.
 - SQL (for data querying and aggregation)
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
+- MySQL Workbench
 
 ##  Files
 - `pizza_sales_analysis.sql`: SQL queries used
